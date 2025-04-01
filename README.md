@@ -52,7 +52,9 @@ Spearheaded the development of an AI-based lead scoring system leveraging algori
 ---
 ## 🤝 Let's Connect
 [LinkedIn Profile](https://www.linkedin.com/in/swapnil-kulkarni-52585390/)
+
 Feel free to explore my repositories and get in touch for potential collaborations or to discuss innovative ideas. Whether you’re looking to build cutting-edge solutions or simply want to exchange industry insights, I’d love to connect!
+
 ---
 
 *Strive for excellence, inspire change.*
